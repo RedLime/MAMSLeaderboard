@@ -3,3 +3,4 @@ PurpleEffect|91.7|room_1|https://www.youtube.com/watch?v=JV48Iwjcwn4|true
 Ziten|101.8|room_1|https://www.youtube.com/watch?v=bf_SHf2MQ7w|true
 Zidouri|98.8|room_1|https://youtu.be/eSWeH2PEbUY|false
 Zidouri|91.9|room_1|https://youtu.be/vjEQJbBLR8E|true
+3bneo|99.6|room_1|https://www.youtube.com/watch?v=yVURLMSuAyk|true

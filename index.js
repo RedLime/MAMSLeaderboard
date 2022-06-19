@@ -54,6 +54,7 @@ const updateLeaderboard = (type, recipe) => {
 
         const oldRecord = records.find(rec => rec.nickname == record.nickname);
         if (oldRecord && oldRecord.time <= record.time) {
+            records.splice(records.findIndex(rec => rec.nickname == record.nickname), 1);
             continue;
         }
 

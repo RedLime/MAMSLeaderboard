@@ -1,0 +1,76 @@
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="title" content="MinedApple's Mini Speedrun Leaderboard" />
+    <meta name="description" content="MinedApple's Mini Speedrun Leaderboard" />
+    <meta property="og:image" content="./images/icon.png" />
+    <title>MAMS Leaderboard</title>
+    <link rel="shortcut icon" href="./images/icon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./css/materialize.css">
+    <link href="./stylesheet.css" rel="stylesheet">
+    <script src="./js/bin/materialize.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+    <div class="navbar-fixed">
+        <nav>
+            <div class="nav-wrapper">
+                <span class="white-text" style="font-size: 1.75em; font-weight: bold; padding-left: 1em;">MAMS Leaderboard</span>
+            </div>
+        </nav>
+    </div>
+    <main>
+        <div class="container">
+            <center><img src="./images/icon.png" width="25%" style="margin: 30px; padding: 30px;"></center>
+            <div style="font-size: 2.5em; text-align: center;">MinedApple's Mini Speedrun Leaderboard</div>
+            <div style="text-align: center;">
+                <br>
+                <a class="waves-effect waves-light btn" href="https://blog.naver.com/edward2065/222778498030" target="_blank">Download</a>
+                <br>
+                <br>
+                <a class="waves-effect waves-light btn" href="https://blog.naver.com/edward2065/222778498030" target="_blank">Submit</a>
+            </div>
+        </br>
+            <div class="row">
+                <ul class="tabs tabs-fixed-width tab-demo z-depth-1">
+                    <li class="tab"><a onclick="changeType('room_1')">Room 1</a></li>
+                    <li class="tab"><a onclick="changeType('room_2')">Room 2</a></li>
+                    <li class="tab"><a onclick="changeType('room_3')">Room 3</a></li>
+                    <li class="tab"><a onclick="changeType('all_rooms')">All Rooms</a></li>
+                </ul>
+                <div style="width: 60%; margin: 0 auto">
+                    <br>
+                    <a class='dropdown-trigger btn' href='#' data-target='dropdown1' id="toggle-recipe-book">With Recipe Book</a>
+                    <ul id='dropdown1' class='dropdown-content'>
+                        <li><a href="#!" style="font-size: 0.85em;" onclick="changeRecipe(true)">With Recipe Book</a></li>
+                        <li><a href="#!" style="font-size: 0.75em;" onclick="changeRecipe(false)">Without Recipe Book</a></li>
+                    </ul>
+                    <br>
+                    <br>
+                </div>
+                <div class="col s12 light-font">
+                    <table style="width: 60%; margin: 0 auto; font-size: 1.3em">
+                        <tbody id="record-list"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="page-footer">
+        <div class="container">
+            <ul style="text-align: center; color: white;">
+                <li><a href="https://me.redlimerl.com/" target="_blank">Made by RedLime</a></li>
+                <li><br></li>
+                <li><a href="https://github.com/RedLime/MCSRMods" target="_blank">Github Repository</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+<script>
+    M.AutoInit();
+</script>
+<script src="./index.js"></script>
+</html>

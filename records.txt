@@ -6,10 +6,13 @@ Zidouri|91.9|room_1|https://youtu.be/vjEQJbBLR8E|true
 Ziten|99.6|room_1|https://www.youtube.com/watch?v=yVURLMSuAyk|true
 Thinklater|90.2|room_1|https://www.youtube.com/watch?v=KfkKogjjv1k|true
 temp_gd|91.2|room_1|https://youtu.be/UBx3g5HWNyM|true
-tlvl|97.7|room_1|https://youtu.be/VqLrv7EY34s|true
+Tlvl|97.7|room_1|https://youtu.be/VqLrv7EY34s|true
 6Soup|95.2|room_1|https://www.twitch.tv/videos/1508073835|true
 temp_gd|89.7|room_1|https://youtu.be/ZLKsAuUbnsI|true
 RmaGod|98.3|room_1|https://www.twitch.tv/videos/1507779211?t=01h21m14s|true
 PurpleEffect|90.1|room_1|https://youtu.be/oYMh-qKG0Eg|true
 Roivin|97.8|room_1|https://youtu.be/wsB5376BPi0|true
 Spamint|96.1|room_1|https://youtu.be/4C0zVuNpb-E|true
+Thinklater|89.2|room_1|https://www.youtube.com/watch?v=xd7GV8h8vKo|true
+Thinklater|85.6|room_3|https://www.youtube.com/watch?v=ryKP5gK3VE8|true
+Tlvl|92.3|room_1|https://youtu.be/zGMVJgtQaYI|true

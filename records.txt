@@ -11,3 +11,5 @@ tlvl|97.7|room_1|https://youtu.be/VqLrv7EY34s|true
 temp_gd|89.7|room_1|https://youtu.be/ZLKsAuUbnsI|true
 RmaGod|98.3|room_1|https://www.twitch.tv/videos/1507779211?t=01h21m14s|true
 PurpleEffect|90.1|room_1|https://youtu.be/oYMh-qKG0Eg|true
+Roivin|97.8|room_1|https://youtu.be/wsB5376BPi0|true
+Spamint|96.1|room_1|https://youtu.be/4C0zVuNpb-E|true

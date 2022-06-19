@@ -9,3 +9,4 @@ temp_gd|91.2|room_1|https://youtu.be/UBx3g5HWNyM|true
 tlvl|97.7|room_1|https://youtu.be/VqLrv7EY34s|true
 6Soup|95.2|room_1|https://www.twitch.tv/videos/1508073835|true
 temp_gd|89.7|room_1|https://youtu.be/ZLKsAuUbnsI|true
+RmaGod|98.3|room_1|https://www.twitch.tv/videos/1507779211?t=01h21m14s|true

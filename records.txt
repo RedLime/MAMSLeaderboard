@@ -16,3 +16,5 @@ Spamint|96.1|room_1|https://youtu.be/4C0zVuNpb-E|true
 Thinklater|89.2|room_1|https://www.youtube.com/watch?v=xd7GV8h8vKo|true
 Thinklater|85.6|room_3|https://www.youtube.com/watch?v=ryKP5gK3VE8|true
 Tlvl|92.3|room_1|https://youtu.be/zGMVJgtQaYI|true
+Thinklater|103.5|room_2|https://www.youtube.com/watch?v=LQ2Gw_s-Dag|true
+Thinklater|82.2|room_3|https://www.youtube.com/watch?v=9rI7i4RI_dE|true

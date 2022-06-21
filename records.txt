@@ -18,3 +18,5 @@ Thinklater|85.6|room_3|https://www.youtube.com/watch?v=ryKP5gK3VE8|true
 Tlvl|92.3|room_1|https://youtu.be/zGMVJgtQaYI|true
 Thinklater|103.5|room_2|https://www.youtube.com/watch?v=LQ2Gw_s-Dag|true
 Thinklater|82.2|room_3|https://www.youtube.com/watch?v=9rI7i4RI_dE|true
+PurpleEffect|88.7|room_1|https://youtu.be/FRb0r_6dXVM|true
+PurpleEffect|98.3|room_2|https://youtu.be/4XL-YVsJ07Y|true
